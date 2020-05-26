@@ -1,0 +1,7 @@
+build/
+Debug/
+Release/
+x64/
+wxCalc/Debug/
+wxCalc/Release/
+wxCalc/x64/
