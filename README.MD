@@ -4,7 +4,7 @@ This is my project for OOP class, from Transilvania University Brasov. It is a s
 
 ## Demo for Windows
 
-Insatll Visual Studio 2019 and run wxCalc.exe
+Install Visual Studio 2019 and run wxCalc.exe
 
 ## Getting Started
 
