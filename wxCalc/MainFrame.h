@@ -1,10 +1,10 @@
 /***************************************************************
  * Name:      Proiect_PCLPIIMain.h
  * Purpose:   Defines Application Frame
- * Author:    Alex (palexandru2000@gmail.com)
+ * Author:    Alex
  * Created:   2020-04-09
  * Copyright: Alex ()
- * License:
+ * License: MIT License
  **************************************************************/
 
 #ifndef PROIECT_PCLPII_MAINFRAME_H

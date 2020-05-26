@@ -1,10 +1,10 @@
 /***************************************************************
  * Name:      Proiect_PCLPIIMain.cpp
  * Purpose:   Code for Application Frame
- * Author:    Alex (palexandru2000@gmail.com)
+ * Author:    Alex
  * Created:   2020-04-09
  * Copyright: Alex ()
- * License:
+ * License: MIT License
  **************************************************************/
 
 #include <string>
